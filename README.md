@@ -1,4 +1,5 @@
 Case Study – Understanding Demand for Shared Electric Cycles
+
 🔍 Overview
 The electric ride-sharing bike company, India’s leading micro-mobility provider, offers shared electric cycles to alleviate urban congestion. Despite its expansion, recent revenue declines have prompted an analysis of factors influencing rental demand. This study identifies key determinants affecting rental behavior and presents data-driven recommendations to enhance business operations.
 
